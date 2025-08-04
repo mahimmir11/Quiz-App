@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital city of Japan?",
+        "options": ["Kyoto", "Tokyo", "Osaka", "Hiroshima"],
+        "answer": "Tokyo"
+    },
+    {
+        "question": "Who is known as the father of computers?",
+        "options": ["Alan Turing", "Charles Babbage", "Tim Berners-Lee", "Bill Gates"],
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "Which data type is immutable in Python?",
+        "options": ["List", "Dictionary", "Set", "Tuple"],
+        "answer": "Tuple"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": ["Central Processing Unit", "Computer Personal Unit", "Central Programming Unit", "Control Program Unit"],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Venus", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "question": "In which year was Python first released?",
+        "options": ["1989", "1991", "1995", "2000"],
+        "answer": "1991"
+    },
+    {
+        "question": "Which of these is a front-end web development framework?",
+        "options": ["Django", "Flask", "React", "Node.js"],
+        "answer": "React"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Leo Tolstoy", "George Orwell"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Which symbol is used to start a comment in Python?",
+        "options": ["//", "#", "/*", "--"],
+        "answer": "#"
+    },
+    {
+        "question": "What is the value of π (pi) approximately?",
+        "options": ["2.14", "3.14", "3.41", "4.13"],
+        "answer": "3.14"
+    }
+]
